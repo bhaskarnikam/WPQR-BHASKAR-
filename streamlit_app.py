@@ -4579,7 +4579,7 @@ else:
 # This step installs it in your Google Colab environment.
 
 # ⚙️ The '!' symbol runs a shell command in Colab or Jupyter
-!pip install openpyxl
+
 
 
 
