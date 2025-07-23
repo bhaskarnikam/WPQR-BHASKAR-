@@ -34,7 +34,8 @@ Original file is located at
 # ----------------------------------------------------------------------
 
 import pandas as pd                          # 🔧 pandas is used to read, manage, and manipulate Excel data
-from google.colab import files              # 📁 Allows us to upload files directly in Google Colab
+st.file_uploader("Upload Excel file", type=["xlsx"])
+              # 📁 Allows us to upload files directly in Google Colab
 from IPython.display import display, Markdown  # 🖥️ Used for clean, formatted display of outputs
 
 
