@@ -759,7 +759,6 @@ import pandas as pd
 try:
     from tabulate import tabulate
 except ImportError:
-    !pip install tabulate
     from tabulate import tabulate
 
 # --------------------------------------------------------
