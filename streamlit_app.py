@@ -1,3 +1,5 @@
+import streamlit as st
+
 # -*- coding: utf-8 -*-
 """WPQR2107_Rev05.ipynb
 
